@@ -1,0 +1,7 @@
+METODO get 
+muestra los datos a travez de la url
+
+METODO POST
+los oculta y los recepciona
+
+require "nombre del archivo";  *hacer llamar al archivo 
